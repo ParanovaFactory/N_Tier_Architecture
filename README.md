@@ -1,4 +1,4 @@
-# NTier Architecture Example
+# N-Tier Architecture Example
 
 This project demonstrates the **NTier Architecture** using **.NET**. The project is structured in multiple layers that follow the best practices of separation of concerns. It is a practical example of how to organize code for scalable, maintainable, and flexible applications.
 
@@ -47,3 +47,18 @@ public class Presentation
         Console.WriteLine(data);
     }
 }
+```
+
+---
+
+## 👤 Author
+
+**Sadık Berkay Karaduman**  
+📧 [karadumansadikberkay@gmail.com](mailto:karadumansadikberkay@gmail.com)  
+🔗 [GitHub – ParanovaFactory](https://github.com/ParanovaFactory)
+
+---
+
+## 📄 License
+
+MIT License — Feel free to use, modify, and contribute.
